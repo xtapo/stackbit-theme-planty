@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://demo1.xtapo.com"
 title: 'Snipcart'
 params:
   logos:
